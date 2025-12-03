@@ -1,4 +1,4 @@
-![IDE-MEDT - Copy2_001](https://github.com/user-attachments/assets/6a55073a-f058-49e0-a556-57a732db17de)# IDE: improved Doppler effect metaheuristic with adaptive learning and opposition-based initialization for large-scale frequency-constrained dome-truss optimization
+## IDE: improved Doppler effect metaheuristic with adaptive learning and opposition-based initialization for large-scale frequency-constrained dome-truss optimization
 
 
 
