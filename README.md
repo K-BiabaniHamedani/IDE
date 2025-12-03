@@ -4,7 +4,7 @@
 
 
 ## Abstract
-![IDE-MEDT - Copy2_001](https://github.com/user-attachments/assets/b8c7e0f4-ffb0-4c16-a8d7-ef73aedfaebd)
+![IDE-MEDT - Copy2_001](https://github.com/user-attachments/assets/d73c02d2-4961-4bde-b257-9e3a02851d64)
 
 
 
