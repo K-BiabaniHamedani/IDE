@@ -3,7 +3,7 @@
 % GitHub Repository: https://github.com/K-BiabaniHamedani/IDE
 %
 % This MATLAB implementation accompanies the manuscript:
-% "IDE: improved Doppler effect metaheuristic with adaptive learning and
+% "Improved Doppler effect metaheuristic with adaptive learning and
 % opposition-based initialization for large-scale frequency-constrained
 % dome-truss optimization"
 % Submitted to *Computers & Structures*.
@@ -314,5 +314,6 @@ function [pop, SortOrder] = SortPopulation(pop)
 Costs = [pop.Cost];
 [~, SortOrder] = sort(Costs);
 pop = pop(SortOrder);
+
 
 end
