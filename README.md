@@ -1,5 +1,5 @@
 ## Title
-![IDE-MEDT - Copy_001](https://github.com/user-attachments/assets/a6e8773c-3bb7-4d51-8f7f-a9a076dae541)
+![IDE-MEDT - Copy_001](https://github.com/user-attachments/assets/5e3a9da7-7d11-4456-a192-8ee272921431)
 
 
 ## Abstract
