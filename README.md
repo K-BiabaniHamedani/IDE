@@ -1,5 +1,5 @@
 ## Title
-Improved Doppler effect metaheuristic with adaptive learning and opposition-based initialization for large-scale frequency-constrained dome-truss optimization
+**Improved Doppler effect metaheuristic with adaptive learning and opposition-based initialization for large-scale frequency-constrained dome-truss optimization**
 
 
 ## Abstract
