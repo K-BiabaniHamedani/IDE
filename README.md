@@ -11,4 +11,4 @@ Kaveh, A., Biabani Hamedani, K., and Hosseini, S.M. (2025). *Improved Doppler ef
 
 
 ## Acknowledgements
-This work is based upon research funded by **Iran National Science Foundation (INSF)** under project No. **4024911**. 
+This work is based upon research funded by **Iran National Science Foundation (INSF)** under project No. **4024911**. The first and second authors gratefully acknowledge this support.
