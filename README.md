@@ -7,7 +7,7 @@ This paper introduces the improved Doppler effect (IDE) algorithm, a hybrid meta
 
 
 ## Reference
-Kaveh, A., Biabani Hamedani, K., and Hosseini, S.M. (2025). *Improved Doppler effect metaheuristic with adaptive learning and opposition-based initialization for large-scale frequency-constrained dome-truss optimization*. Manuscript submitted to ***Computers & Structures***.
+Kaveh, A., Biabani Hamedani, K., and Hosseini, S.M. (2025). *Improved Doppler effect metaheuristic with adaptive learning and opposition-based initialization for large-scale frequency-constrained dome-truss optimization*. ***Computers & Structures***, 327, 108246. https://doi.org/10.1016/j.compstruc.2026.108246
 
 
 ## Acknowledgements
